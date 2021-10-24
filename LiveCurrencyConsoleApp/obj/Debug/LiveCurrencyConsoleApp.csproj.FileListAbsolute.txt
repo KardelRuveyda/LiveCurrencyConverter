@@ -1,0 +1,7 @@
+C:\Projects\Shopify\CurrencyConverter\LiveCurrencyconverter\LiveCurrencyConsoleApp\bin\Debug\LiveCurrencyConsoleApp.exe.config
+C:\Projects\Shopify\CurrencyConverter\LiveCurrencyconverter\LiveCurrencyConsoleApp\bin\Debug\LiveCurrencyConsoleApp.exe
+C:\Projects\Shopify\CurrencyConverter\LiveCurrencyconverter\LiveCurrencyConsoleApp\bin\Debug\LiveCurrencyConsoleApp.pdb
+C:\Projects\Shopify\CurrencyConverter\LiveCurrencyconverter\LiveCurrencyConsoleApp\obj\Debug\LiveCurrencyConsoleApp.csproj.CoreCompileInputs.cache
+C:\Projects\Shopify\CurrencyConverter\LiveCurrencyconverter\LiveCurrencyConsoleApp\obj\Debug\LiveCurrencyConsoleApp.exe
+C:\Projects\Shopify\CurrencyConverter\LiveCurrencyconverter\LiveCurrencyConsoleApp\obj\Debug\LiveCurrencyConsoleApp.pdb
+C:\Projects\Shopify\CurrencyConverter\LiveCurrencyconverter\LiveCurrencyConsoleApp\obj\Debug\LiveCurrencyConsoleApp.csproj.AssemblyReference.cache
